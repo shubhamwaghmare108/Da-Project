@@ -1,0 +1,44 @@
+use da_carburator_project;
+
+
+LOAD DATA INFILE 
+'D:\\CarburatorProject\\ManufacturerData.csv'
+INTO TABLE manufacturer
+FIELDS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA INFILE 
+'D:\\CarburatorProject\\FacilityList.csv'
+INTO TABLE facility
+FIELDS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA INFILE 
+'D:\\CarburatorProject\\ContractTable.csv'
+INTO TABLE contract
+FIELDS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA INFILE 
+'D:\\CarburatorProject\\ProductionData.csv'
+INTO TABLE production
+FIELDS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA INFILE 
+'D:\\CarburatorProject\\SuplierData.csv'
+INTO TABLE suplier
+FIELDS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+

@@ -1,0 +1,138 @@
+FacilityId,ManufacturerId,Type,Country,City
+FAC0001,1,Component Manufacturing,France,Occitanie / Toulouse
+FAC0002,1,Component Manufacturing,Spain,Cataluña / Barcelona
+FAC0003,1,Main Assembly Plant,Japan,Kwanto Region / Tokyo-Yokohama-Kawasaki
+FAC0004,1,Component Manufacturing,China,Tianjin / Bohai Economic Rim
+FAC0005,1,Main Assembly Plant,Indonesia,West Java
+FAC0006,2,Main Assembly Plant,USA,Los Angeles CA
+FAC0007,2,Main Assembly Plant,Indonesia,East Java
+FAC0008,2,Main Assembly Plant,Brazil,Manaus Free Trade Zone
+FAC0009,2,Component Manufacturing,Mexico,Ciudad Juárez
+FAC0010,2,Component Manufacturing,South Korea,Ansan
+FAC0011,2,Component Manufacturing,Thailand,Eastern Economic Corridor (EEC)
+FAC0012,2,Component Manufacturing,South Korea,Pohang
+FAC0013,2,Main Assembly Plant,Germany,Stuttgart
+FAC0014,3,Main Assembly Plant,China,Zhejiang / Ningbo
+FAC0015,3,Main Assembly Plant,Thailand,Bangkok Metropolis
+FAC0016,3,Main Assembly Plant,Taiwan,Kaohsiung
+FAC0017,3,Main Assembly Plant,Italy,Emilia-Romagna
+FAC0018,3,Main Assembly Plant,UK,South East
+FAC0019,3,Component Manufacturing,UK,South Wales
+FAC0020,3,Main Assembly Plant,France,Auvergne-Rhône-Alpes / Lyon
+FAC0021,4,Component Manufacturing,China,Zhejiang / Ningbo
+FAC0022,4,Main Assembly Plant,Italy,Veneto / Venice
+FAC0023,4,Main Assembly Plant,Italy,Emilia-Romagna
+FAC0024,4,Main Assembly Plant,UK,Midlands
+FAC0025,4,Component Manufacturing,South Korea,Ulsan
+FAC0026,4,Component Manufacturing,USA,Houston TX
+FAC0027,4,Component Manufacturing,India,Gujarat
+FAC0028,4,Main Assembly Plant,Brazil,São Paulo State
+FAC0029,5,Component Manufacturing,China,Guangdong / Pearl River Delta
+FAC0030,5,Main Assembly Plant,Spain,Galicia
+FAC0031,5,Component Manufacturing,Germany,Hamburg
+FAC0032,5,Main Assembly Plant,Thailand,Chon Buri / Rayong
+FAC0033,5,Main Assembly Plant,Germany,Wolfsburg
+FAC0034,5,Main Assembly Plant,Mexico,Ciudad Juárez
+FAC0035,5,Main Assembly Plant,France,Île-de-France / Paris Region
+FAC0036,5,Main Assembly Plant,UK,South Wales
+FAC0037,6,Main Assembly Plant,Japan,Northern Kyushu
+FAC0038,6,Component Manufacturing,France,Île-de-France / Paris Region
+FAC0039,6,Component Manufacturing,USA,Indianapolis IN
+FAC0040,6,Main Assembly Plant,UK,Midlands
+FAC0041,6,Main Assembly Plant,India,Bengaluru KA
+FAC0042,6,Component Manufacturing,Germany,Wolfsburg
+FAC0043,6,Component Manufacturing,Thailand,Bangkok Metropolis
+FAC0044,6,Component Manufacturing,Thailand,Samut Prakan
+FAC0045,7,Main Assembly Plant,Japan,Northern Kyushu
+FAC0046,7,Main Assembly Plant,Brazil,Rio Grande do Sul
+FAC0047,7,Component Manufacturing,Mexico,Guadalajara
+FAC0048,7,Component Manufacturing,China,Shanghai / Yangtze River Delta
+FAC0049,7,Main Assembly Plant,UK,South Wales
+FAC0050,7,Main Assembly Plant,Germany,Wolfsburg
+FAC0051,7,Component Manufacturing,Japan,Northern Kyushu
+FAC0052,7,Main Assembly Plant,USA,Los Angeles CA
+FAC0053,8,Component Manufacturing,Brazil,Manaus Free Trade Zone
+FAC0054,8,Main Assembly Plant,Italy,Piemonte / Turin
+FAC0055,8,Main Assembly Plant,Germany,Wolfsburg
+FAC0056,8,Main Assembly Plant,India,Mumbai-Pune Corridor MH
+FAC0057,8,Component Manufacturing,Mexico,Ciudad Juárez
+FAC0058,9,Main Assembly Plant,Taiwan,Tainan / Southern Taiwan Science Park
+FAC0059,9,Main Assembly Plant,Indonesia,Central Java
+FAC0060,9,Component Manufacturing,India,Delhi-NCR
+FAC0061,9,Component Manufacturing,Japan,Kwanto Region / Tokyo-Yokohama-Kawasaki
+FAC0062,9,Component Manufacturing,Indonesia,West Java
+FAC0063,9,Main Assembly Plant,Mexico,Querétaro
+FAC0064,9,Component Manufacturing,France,Auvergne-Rhône-Alpes / Lyon
+FAC0065,9,Main Assembly Plant,UK,South Wales
+FAC0066,10,Component Manufacturing,Germany,Munich
+FAC0067,10,Main Assembly Plant,UK,South East
+FAC0068,10,Main Assembly Plant,France,Île-de-France / Paris Region
+FAC0069,10,Main Assembly Plant,Mexico,Guadalajara
+FAC0070,10,Main Assembly Plant,UK,Scotland
+FAC0071,10,Main Assembly Plant,China,Zhejiang / Ningbo
+FAC0072,11,Main Assembly Plant,Mexico,Monterrey
+FAC0073,11,Main Assembly Plant,Brazil,São Paulo State
+FAC0074,11,Main Assembly Plant,UK,Midlands
+FAC0075,11,Main Assembly Plant,France,Hauts-de-France / Lille
+FAC0076,11,Main Assembly Plant,Indonesia,Central Java
+FAC0077,11,Component Manufacturing,Spain,País Vasco / Basque Country
+FAC0078,12,Main Assembly Plant,Brazil,Minas Gerais
+FAC0079,12,Main Assembly Plant,Spain,Comunidad Valenciana / Valencia
+FAC0080,12,Component Manufacturing,Japan,Shizuoka
+FAC0081,12,Main Assembly Plant,UK,South East
+FAC0082,12,Component Manufacturing,USA,Detroit MI
+FAC0083,12,Main Assembly Plant,Indonesia,Banten
+FAC0084,12,Main Assembly Plant,France,Hauts-de-France / Lille
+FAC0085,13,Main Assembly Plant,UK,South Wales
+FAC0086,13,Main Assembly Plant,Taiwan,Tainan / Southern Taiwan Science Park
+FAC0087,13,Main Assembly Plant,Mexico,Tijuana
+FAC0088,13,Component Manufacturing,UK,Scotland
+FAC0089,13,Component Manufacturing,Italy,Veneto / Venice
+FAC0090,13,Main Assembly Plant,Taiwan,Tainan / Southern Taiwan Science Park
+FAC0091,14,Main Assembly Plant,Germany,Ruhr Area
+FAC0092,14,Component Manufacturing,USA,Pittsburgh PA
+FAC0093,14,Component Manufacturing,South Korea,Ansan
+FAC0094,14,Main Assembly Plant,France,Île-de-France / Paris Region
+FAC0095,14,Main Assembly Plant,Taiwan,Hsinchu Science Park
+FAC0096,14,Component Manufacturing,South Korea,Ulsan
+FAC0097,15,Main Assembly Plant,Mexico,Ciudad Juárez
+FAC0098,15,Main Assembly Plant,Brazil,Rio de Janeiro
+FAC0099,15,Main Assembly Plant,UK,Midlands
+FAC0100,15,Main Assembly Plant,South Korea,Ulsan
+FAC0101,15,Main Assembly Plant,Italy,Lombardia / Milan
+FAC0102,15,Main Assembly Plant,Japan,Nagoya Region
+FAC0103,15,Component Manufacturing,Japan,Shizuoka
+FAC0104,16,Main Assembly Plant,UK,Midlands
+FAC0105,16,Main Assembly Plant,Brazil,São Paulo State
+FAC0106,16,Main Assembly Plant,Taiwan,Taichung
+FAC0107,16,Main Assembly Plant,Brazil,Manaus Free Trade Zone
+FAC0108,16,Component Manufacturing,USA,Houston TX
+FAC0109,16,Component Manufacturing,Germany,Ruhr Area
+FAC0110,16,Component Manufacturing,Indonesia,Central Java
+FAC0111,16,Component Manufacturing,Spain,Comunidad de Madrid
+FAC0112,17,Component Manufacturing,Italy,Toscana
+FAC0113,17,Main Assembly Plant,Japan,Northern Kyushu
+FAC0114,17,Main Assembly Plant,Italy,Emilia-Romagna
+FAC0115,17,Main Assembly Plant,Indonesia,East Java
+FAC0116,17,Component Manufacturing,Japan,Northern Kyushu
+FAC0117,17,Component Manufacturing,Italy,Piemonte / Turin
+FAC0118,18,Main Assembly Plant,USA,Los Angeles CA
+FAC0119,18,Component Manufacturing,UK,Scotland
+FAC0120,18,Main Assembly Plant,Mexico,Guadalajara
+FAC0121,18,Main Assembly Plant,India,Delhi-NCR
+FAC0122,18,Component Manufacturing,Spain,Galicia
+FAC0123,18,Main Assembly Plant,USA,Pittsburgh PA
+FAC0124,18,Component Manufacturing,Indonesia,Banten
+FAC0125,18,Component Manufacturing,Brazil,Rio Grande do Sul
+FAC0126,19,Main Assembly Plant,Japan,Kinky Region / Osaka-Kobe-Kyoto
+FAC0127,19,Main Assembly Plant,Brazil,São Paulo State
+FAC0128,19,Component Manufacturing,Spain,Cataluña / Barcelona
+FAC0129,19,Component Manufacturing,Thailand,Pathum Thani
+FAC0130,19,Main Assembly Plant,Mexico,Monterrey
+FAC0131,19,Component Manufacturing,Japan,Kwanto Region / Tokyo-Yokohama-Kawasaki
+FAC0132,19,Main Assembly Plant,Mexico,Ciudad Juárez
+FAC0133,20,Component Manufacturing,UK,North West
+FAC0134,20,Main Assembly Plant,China,Zhejiang / Ningbo
+FAC0135,20,Main Assembly Plant,Indonesia,East Java
+FAC0136,20,Main Assembly Plant,Japan,Kinky Region / Osaka-Kobe-Kyoto
+FAC0137,20,Main Assembly Plant,France,Occitanie / Toulouse
