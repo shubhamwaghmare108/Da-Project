@@ -1,0 +1,37 @@
+******* Card visuals -- KPI dashboard*******
+
+1. no. of manufacturer
+2. no. of facility
+3. no. of supplier
+4. no of supplier country
+5. no of headquarter country
+6. no of employees
+7. no of certified facility
+8. no of contract currently active
+9. display highest installed capacity manufacturer 
+10. display lowest installed capacity manufacturer
+11. display highest facility count manufacturer name
+12. display lowest facility count manufacturer name
+13. display max utilization facility name latest
+14. display min utilization facility name latest
+15. display list of supliers which are in supplier table but not in contract table
+16. longest contract period and this contract is between which supplier and facility
+17. shortest contract period and this contract is between which supplier and facility
+18. no of contracts expired
+19. no of production facility
+20. no of assembly facility
+
+
+******* line chart *********
+1. employee count over time with facility and manufacturer slicer
+2. capacity chart by facility ,manufacturer
+3. capacity utilization over time by facility,manufacturer
+4. production chart by facility,manufacturer
+
+******* tables********
+1. manufacturer facility count
+2. manufacturer employee count
+3. manufacturer capacity total
+4. manufacturer capacity utilization
+5. manufacturer wise production and assembly plant count
+
